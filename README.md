@@ -108,4 +108,6 @@ The top 3 fuel-efficient cars with engine above 2.5 litres are Chevrolet Impala,
 
  ![image](https://github.com/user-attachments/assets/057f0b34-4db8-41e3-bdfc-3b76aa03b39f)
 
+## CONCLUSION
+The analysis of this data has provided applicable solutions to business inquiries and it is recommended that measures are taken to implement it. More visualizations tools can also be applied and other advanced analytical tools.
 
